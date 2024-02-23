@@ -33,4 +33,4 @@ st.text('')
 st.text('')
 st.markdown(
     '`Create by` [Christo Joseph Sajan](https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/README.md) | \
-         `Code:` [GitHub](https://github.com/intel-unnati-saintgits/Model-Deployment-Demo/edit/main/app.py)')
+         `Code:` [GitHub](https://github.com/Christojs/Deployment-repo/edit/main/app.py)')
